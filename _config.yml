@@ -8,7 +8,7 @@ rdiscount:
 
 # User Options
 name: Schoolies
-baseurl:   '/schoolies'
+baseurl:   /schoolies
 description: 'A Jekyll theme for university writings, essays and beautiful photography.'
 email: 
 twitter: mektball
